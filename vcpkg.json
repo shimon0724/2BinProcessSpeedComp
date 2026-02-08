@@ -1,0 +1,7 @@
+{
+  "name": "2bin-process-speed-comp",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "opencv"
+  ]
+}
